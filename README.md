@@ -83,7 +83,39 @@ python main.py
 
 # 📸 Screenshots
 
-*(Screenshots will be added soon.)*
+## 🏠 Home Screen
+
+![Home Screen](screenshots/home.png)
+
+---
+
+## 🎮 Gameplay
+
+![Gameplay](screenshots/hangman.png)
+
+---
+
+## 🏆 Victory Screen
+
+![Victory](screenshots/win.png)
+
+---
+
+## 💀 Game Over
+
+![Game Over](screenshots/lose.png)
+
+---
+
+## 📊 Statistics
+
+![Statistics](screenshots/statistic.png)
+
+---
+
+## ℹ️ About
+
+![About](screenshots/about.png)
 
 ---
 
