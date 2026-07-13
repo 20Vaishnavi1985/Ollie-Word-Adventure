@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# PyCharm
+.idea/
+
+# PyInstaller
+build/
+dist/
+
+# Game save files
+best_score.txt
+statistics.json
+
+# Windows
+Thumbs.db
+Desktop.ini

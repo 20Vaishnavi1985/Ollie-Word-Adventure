@@ -1,0 +1,50 @@
+Animals,Axolotl,Ornithorhynchus,Archaeopteryx,Ichthyosaurus,Coelacanth,Pangolin,Ayeaye,Quokka,Okapi,Narwhal
+Birds,Cassowary,Shoebill,Kookaburra,Cockatiel,Ptarmigan,Hoatzin,Secretarybird,Nightingale,Cormorant,Roadrunner
+Sea Animals,Nudibranch,Coelacanth,Nautilus,PortugueseManowar,Dragonfish,GulperEel,Lionfish,Cuttlefish,Hagfish,Blobfish
+Reptiles,Tuatara,Basilisk,Uromastyx,Matamata,FrilledLizard,GlassLizard,HornedLizard,CaimanLizard,Agama,Slowworm
+Insects,Katydid,Leafhopper,Stonefly,Dobsonfly,Lacewing,Silverfish,Earwig,Caddisfly,Thrips,Mayfly
+Fruits,Mangosteen,Rambutan,Jabuticaba,Durian,Salak,Longan,Cherimoya,Feijoa,Ackee,Physalis
+Vegetables,Kohlrabi,Celeriac,Rutabaga,Fennel,Endive,Chayote,BokChoy,Daikon,Parsnip,Salsify
+Flowers,Amaryllis,Delphinium,Foxglove,Bougainvillea,Ranunculus,Hydrangea,Anemone,Freesia,Heliconia,Larkspur
+Trees,Baobab,Ginkgo,Jacaranda,Sequoia,Tamarind,Mahogany,Sycamore,Hemlock,Yew,Kapok
+Countries,Liechtenstein,Kyrgyzstan,Turkmenistan,Tajikistan,Azerbaijan,Luxembourg,Montenegro,Eswatini,Comoros,Djibouti
+Capitals,Thimphu,Astana,Chisinau,Bishkek,Dushanbe,Yerevan,Tegucigalpa,Ouagadougou,Podgorica,Vientiane
+Indian States,ArunachalPradesh,AndamanNicobar,DadraNagarHaveli,Lakshadweep,Puducherry,Chandigarh,DamanDiu,JammuKashmir,Ladakh,DelhiNCT
+Rivers,Zambezi,Orinoco,Yenisey,Lena,AmuDarya,SyrDarya,Tungabhadra,Irrawaddy,Salween,Parana
+Mountains,Dhaulagiri,NangaParbat,ChoOyu,Makalu,Gasherbrum,Manaslu,Lhotse,Shishapangma,Karakoram,HinduKush
+Oceans,BarentsSea,LaptevSea,KaraSea,BeaufortSea,ChukchiSea,WeddellSea,RossSea,ScotiaSea,PhilippineSea,SargassoSea
+Planets,Eris,Haumea,Makemake,Charon,Enceladus,Mimas,Oberon,Titania,Miranda,Ariel
+Space,Exoplanet,Quasar,Pulsar,Magnetar,EventHorizon,Singularity,Interstellar,Astrobiology,Cosmology,Heliosphere
+Weather,Anticyclone,Cumulonimbus,Stratosphere,Thermosphere,Barometer,Anemometer,Isobar,Jetstream,Microburst,Atmosphere
+Sports,Decathlon,Triathlon,Pentathlon,Curling,Luge,Biathlon,Skeleton,Equestrian,WaterPolo,SynchronizedSwimming
+Olympics,ModernPentathlon,RhythmicGymnastics,SynchronizedDiving,Trampoline,Breakdancing,ArtisticSwimming,Steeplechase,Heptathlon,Decathlon,Slalom
+Musical Instruments,Bassoon,Harpsichord,Dulcimer,Mandolin,Sitar,Didgeridoo,Balalaika,Glockenspiel,Contrabass,Piccolo
+Vehicles,Hovercraft,Monorail,Autogyro,Hydrofoil,Zeppelin,Maglev,Snowmobile,Quadbike,Forklift,Locomotive
+Professions,Astronomer,Paleontologist,Cartographer,Anesthesiologist,Archaeologist,Cryptographer,Meteorologist,Neurologist,Geologist,Ornithologist
+Computer Terms,Virtualization,Encryption,Motherboard,Microprocessor,Algorithm,Compilation,Bandwidth,Cache,Cybersecurity,VirtualMachine
+Programming,Polymorphism,Encapsulation,Abstraction,Multithreading,Asynchronous,Serialization,Metaclass,Decorator,Concurrency,Generics
+Internet,Authentication,Cryptography,Blockchain,CloudComputing,VirtualPrivateNetwork,Phishing,Malware,Ransomware,WebSocket
+Movies,Oppenheimer,SchindlersList,ApocalypseNow,Parasite,Whiplash,Memento,Goodfellas,Casablanca,Amadeus,Vertigo
+Cartoon Characters,DarkwingDuck,LaunchpadMcQuack,GizmoDuck,ScroogeMcDuck,Animaniacs,PinkyBrain,PowerpuffGirls,SamuraiJack,KimPossible,HeMan
+Disney Characters,Figment,JiminyCricket,Pinocchio,Cruella,Maleficent,DrFacilier,Kuzco,Yzma,Quasimodo,Esmeralda
+Marvel Characters,ShangChi,MoonKnight,AgathaHarkness,Kang,Galactus,Mephisto,Ego,Celestials,AdamWarlock,LivingTribunal
+Superheroes,Constantine,MartianManhunter,Zatanna,BlueBeetle,BoosterGold,SilverSurfer,Spawn,MoonKnight,Sentry,RedHood
+Scientists,Heisenberg,Schrodinger,Lavoisier,Avogadro,Herschel,Leibniz,Copernicus,Linnaeus,Huygens,Dirac
+Inventors,Papin,Jacquard,Trevithick,Pascal,Galvani,Hero,Cugnot,Newcomen,Savery,Polzunov
+Festivals,Epiphany,Passover,YomKippur,Nowruz,Songkran,Obon,Chuseok,Kwanzaa,RoshHashanah,Shavuot
+Food,Moussaka,Ratatouille,Gnocchi,Kimchi,Paella,Bruschetta,Ceviche,Shakshuka,Pierogi,Goulash
+Drinks,Kombucha,Americano,Macchiato,Cortado,Affogato,Chamomile,Matcha,Sarsaparilla,Horchata,Kefir
+Kitchen Items,MortarPestle,Mandoline,Casserole,DutchOven,Skillet,Stockpot,Saucepan,Ramekin,Carafe,Tureen
+School Objects,Abacus,Microscope,Telescope,Projector,Whiteboard,Clipboard,GraphPaper,ClipboardStand,Divider,ClipboardFile
+Body Parts,Clavicle,Scapula,Sternum,Tibia,Fibula,Patella,Ulna,Radius,Pelvis,Vertebrae
+Colors,Cerulean,Vermilion,Chartreuse,Periwinkle,Amaranth,Aquamarine,Viridian,Cinnabar,Ultramarine,Ochre
+Shapes,Dodecahedron,Icosahedron,Tetrahedron,Ellipsoid,Hypercube,Frustum,Torus,Paraboloid,Rhombohedron,Cuboid
+Clothing,Kimono,Poncho,Sarong,Caftan,Brooch,Cummerbund,Ascot,Epaulette,Balaclava,Corset
+Furniture,Armoire,ChaiseLounge,Credenza,Sideboard,SecretaryDesk,ConsoleTable,Chiffonier,Settee,Divan,RolltopDesk
+World Wonders,Alhambra,Borobudur,Moai,Bagan,MontSaintMichel,Prambanan,Lalibela,Persepolis,PotalaPalace,Teotihuacan
+Mythology,Hephaestus,Morpheus,Chronos,Hyperion,Nyx,Erebus,Baldr,Bragi,Fenrir,Jormungandr
+Books,CrimeAndPunishment,WarAndPeace,LesMiserables,Metamorphosis,Ulysses,ParadiseLost,CanterburyTales,Beowulf,Iliad,Aeneid
+Mathematics,Calculus,Trigonometry,Differentiation,Integration,Logarithm,Polynomial,Determinant,Matrix,Asymptote,Permutation
+Biology,Mitochondria,Ribosome,EndoplasmicReticulum,Lysosome,Homeostasis,Chromosome,Evolution,Symbiosis,Biodiversity,Metamorphosis
+Chemistry,Molybdenum,Tungsten,Vanadium,Cadmium,Zirconium,Strontium,Technetium,Rutherfordium,Dubnium,Lawrencium
+Astronomy,Supernova,Quasar,Pulsar,Magnetar,Exoplanet,Heliosphere,Singularity,RedGiant,WhiteDwarf,EventHorizon
